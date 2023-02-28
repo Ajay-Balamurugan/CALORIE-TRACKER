@@ -8,6 +8,7 @@ Having an efficient and useful fitness care system is an important aspect by whi
 Hardware Requirements :
 
 1) RAM – 3GB OR MORE
+
 2 ) Processor – INTEL CORE i3
 
 
